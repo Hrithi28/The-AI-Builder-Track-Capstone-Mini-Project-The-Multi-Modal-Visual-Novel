@@ -13,4 +13,4 @@ Huge thanks to MirAI School of Technology for a track that keeps raising the bar
 #AIBuilder #Streamlit #GenerativeAI #Python #MirAISchoolOfTechnology
 
 
-Linkedin post link - https://www.linkedin.com/posts/activity-7484813217697951744-dDdK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE32XBoBUUCMMeIx5CLhWKenYIR2VL1qrwk
+Linkedin post link - https://www.linkedin.com/posts/hrithika-336063306_aibuilder-streamlit-generativeai-ugcPost-7484816589519962112-2RUE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE32XBoBUUCMMeIx5CLhWKenYIR2VL1qrwk
