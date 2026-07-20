@@ -11,3 +11,6 @@ Under the hood: Gemini drives the narrative and branching logic, Pollinations.ai
 Huge thanks to MirAI School of Technology for a track that keeps raising the bar every week. On to the next build!
 
 #AIBuilder #Streamlit #GenerativeAI #Python #MirAISchoolOfTechnology
+
+
+Linkedin post link - https://www.linkedin.com/posts/activity-7484813217697951744-dDdK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE32XBoBUUCMMeIx5CLhWKenYIR2VL1qrwk
