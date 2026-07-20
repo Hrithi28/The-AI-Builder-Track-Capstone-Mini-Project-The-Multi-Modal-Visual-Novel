@@ -52,6 +52,10 @@ response doesn't kill the app either.
 ## Pre-submission checklist
 
 - [x] JSON parsing: `story_text`, `image_prompt`, `options` extracted via `json.loads`
+
+
+
+Streamlit Deployed link - https://lnkd.in/dWMMt-FD
 - [x] Dynamic buttons generated per `options` returned by the model
 - [x] Image + narration audio rendered and persisted via `session_state`
 - [x] `try/except` + `st.toast` around both the image and audio calls
